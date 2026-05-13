@@ -1,9 +1,9 @@
 =-=-= About =-=-=
 
-hey, i'm sofia — media student & digital designer based in inland.
+<p> hey, i'm sofia — media student & digital designer based in inland. </p>
 
-🇫🇮 Media student & digital designer based in Finland
-🎨 Creating UI/UX, visual content, and web experiences
+<p> 🇫🇮 Media student & digital designer based in Finland </p>
+<p> 🎨 Creating UI/UX, visual content, and web experiences </p>
 ✨ Love making beautiful things that feel simple and alive
 
 📫 Contact 
