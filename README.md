@@ -4,12 +4,11 @@
 
 <p> 🇫🇮 Media student & digital designer based in Finland </p>
 <p> 🎨 Creating UI/UX, visual content, and web experiences </p>
-✨ Love making beautiful things that feel simple and alive
-
-📫 Contact 
-🌐 LinkedIn <a href="https://www.linkedin.com/in/sofia-maksimova-digital-gastri/">LinkedIn</a>
-📧 Email
-💻 GitHub
+<p>✨ Love making beautiful things that feel simple and alive</p>
+<ul>
+<li> 🌐 <a href="https://www.linkedin.com/in/sofia-maksimova-digital-gastri/">LinkedIn</a></li>
+<li> 📧 <a href="maksimova_sofia02@mail.ru ">Email</li>
+</ul>
 
 <!--
 **SofiPomidorka/SofiPomidorka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
