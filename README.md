@@ -9,7 +9,7 @@
 <li> 🌐 <a href="https://www.linkedin.com/in/sofia-maksimova-digital-gastri/">LinkedIn</a></li>
 <li> 📧 <a href="maksimova_sofia02@mail.ru ">Email</li>
 </ul>
-<h1 align="center">🐶 Моя ASCII-собачка</h1>
+
 
 <!--
 **SofiPomidorka/SofiPomidorka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
