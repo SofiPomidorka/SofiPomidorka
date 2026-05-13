@@ -1,4 +1,15 @@
-## Hi there 👋
+=-=-= About =-=-=
+
+hey, i'm sofia — media student & digital designer based in inland.
+
+🇫🇮 Media student & digital designer based in Finland
+🎨 Creating UI/UX, visual content, and web experiences
+✨ Love making beautiful things that feel simple and alive
+
+📫 Contact 
+🌐 LinkedIn <a href="https://www.linkedin.com/in/sofia-maksimova-digital-gastri/">LinkedIn</a>
+📧 Email
+💻 GitHub
 
 <!--
 **SofiPomidorka/SofiPomidorka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
